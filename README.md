@@ -27,8 +27,12 @@ The generator can be configured to produce a wide variety of styles. Here are a 
 | Generated Example 1 | Generated Example 2 |
 | :---: | :---: |
 | ![Example 1](000091_BONK.png) | *(Add another image here, e.g., `examples/example2.png`)* |
-
-*(This is a great place to add a grid of 4-6 of your best generated images)*
+<img width="460" height="115" alt="007-TAO" src="https://github.com/user-attachments/assets/469a40d6-fdb8-4271-8ddb-4df6e4c462ab" />
+<img width="460" height="115" alt="006-SKL" src="https://github.com/user-attachments/assets/04a1318d-99f2-4c5c-ad76-30ca5eea5bca" />
+<img width="460" height="115" alt="005-MAV" src="https://github.com/user-attachments/assets/a63e5381-18ae-4af7-8c05-36f21d13d8a6" />
+<img width="460" height="115" alt="008-STOP" src="https://github.com/user-attachments/assets/d36d9b3d-cf8c-4708-8ec8-dc419004a748" />
+<img width="460" height="115" alt="009-SPOT" src="https://github.com/user-attachments/assets/d323a672-6d7e-44e9-ae3f-273a7c8f6123" />
+<img width="460" height="115" alt="010-W" src="https://github.com/user-attachments/assets/877dc15f-0f7d-4de3-bff8-5f8c46e80740" />
 
 ## Installation
 
@@ -79,7 +83,6 @@ The labels used for generation can be edited in the DEFAULT_LABELS_LIST inside t
 
 To quickly test a single word, use the --single argument.
 ```Bash
-
 python captcha_generator.py --single "FARTCOIN"
 ```
 This will create a single image named test_FARTCOIN.png in the project's root directory.
@@ -89,23 +92,16 @@ This will create a single image named test_FARTCOIN.png in the project's root di
 All visual parameters can be changed by editing the ⚙️ FINAL SETTINGS block at the top of captcha_generator.py.
 
 This includes:
-
     - Canvas size
-
     - Font files (.ttf) and sizes
-
     - Text colors
-
     - All distortion, wave, and shear amplitudes
-
     - Line noise properties (count, color, width)
-
     - Cluster dot noise properties (density, colors)
-
     - Final blur and rotation effects
 
 Tweak these variables to create entirely new CAPTCHA styles.
 
-###License
+### License
 
 This project is open-source. Please feel free to use, modify, and distribute. (Consider adding an MIT License file to your repository).
