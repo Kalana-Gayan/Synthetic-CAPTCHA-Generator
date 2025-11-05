@@ -24,9 +24,7 @@ This script can be used to reverse-engineer and replicate complex visual styles,
 
 The generator can be configured to produce a wide variety of styles. Here are a few examples created by the script:
 
-| Generated Example 1 | Generated Example 2 |
-| :---: | :---: |
-| ![Example 1](000091_BONK.png) | *(Add another image here, e.g., `examples/example2.png`)* |
+
 <img width="460" height="115" alt="007-TAO" src="https://github.com/user-attachments/assets/469a40d6-fdb8-4271-8ddb-4df6e4c462ab" />
 <img width="460" height="115" alt="006-SKL" src="https://github.com/user-attachments/assets/04a1318d-99f2-4c5c-ad76-30ca5eea5bca" />
 <img width="460" height="115" alt="005-MAV" src="https://github.com/user-attachments/assets/a63e5381-18ae-4af7-8c05-36f21d13d8a6" />
